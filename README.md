@@ -2,7 +2,7 @@
 
 Master's in Artificial Intelligence and Data Science, focused on reinforcement learning and data engineering.
 
-I recently completed my master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 stocks. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across image and tabular data.
+I recently completed my master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 data across the last 20 years. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across image and tabular data.
 
 ## Languages and Tools
 
