@@ -8,6 +8,7 @@ My master's thesis combined a hybrid LSTM and reinforcement learning system for 
 
 ## Featured repos
 
+- [LSTM-RL-Hybrid-Trading-System](https://github.com/AfonsoCord/LSTM-RL-Hybrid-Trading-System): hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading on S&P 500 stocks, trained walk forward on data from 2007 to 2025.
 - [AWS-System-Design](https://github.com/AfonsoCord/AWS-System-Design): full stack banking loan platform with face recognition login and an automated credit decision workflow.
 - [job-market-data-lake-pipeline](https://github.com/AfonsoCord/job-market-data-lake-pipeline): end to end data lake pipeline on the global AI job market, feeding predictive models and Tableau dashboards.
 - [realtime-stock-market-pipeline](https://github.com/AfonsoCord/realtime-stock-market-pipeline): streaming pipeline ingesting live stock prices through Kafka, processed with Spark, served through InfluxDB and Grafana.
