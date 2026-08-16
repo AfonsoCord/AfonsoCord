@@ -11,10 +11,10 @@ My master's thesis combined a hybrid LSTM and reinforcement learning system for 
 ## Featured repos
 
 - [AWS-System-Design](https://github.com/AfonsoCord/AWS-System-Design): full stack banking loan platform with face recognition login and an automated credit decision workflow.
-- [realtime-stock-market-pipeline](https://github.com/AfonsoCord/realtime-stock-market-pipeline): streaming pipeline ingesting live stock prices through Kafka, processed with Spark, served through InfluxDB and Grafana.
-- [lapd-crime-dashboard](https://github.com/AfonsoCord/lapd-crime-dashboard): interactive dashboard analyzing over 3 million LAPD crime incidents.
 - [job-market-data-lake-pipeline](https://github.com/AfonsoCord/job-market-data-lake-pipeline): end to end data lake pipeline on the global AI job market, feeding predictive models and Tableau dashboards.
+- [realtime-stock-market-pipeline](https://github.com/AfonsoCord/realtime-stock-market-pipeline): streaming pipeline ingesting live stock prices through Kafka, processed with Spark, served through InfluxDB and Grafana.
 - [artbench-generative-models](https://github.com/AfonsoCord/artbench-generative-models): training and comparison of a VAE, a GAN, a DDPM, and a DDPM plus VAE hybrid.
+- [image-to-prompt-inversion](https://github.com/AfonsoCord/image-to-prompt-inversion): recovering the text prompt behind a target image for a latent consistency model, using LPIPS, CLIP, and pixel MSE metrics.
 - [AWS-bedrock-anthropic-course](https://github.com/AfonsoCord/AWS-bedrock-anthropic-course): notebooks and mini projects on the Claude API through AWS Bedrock.
 
 ## Contact
