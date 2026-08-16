@@ -1,60 +1,64 @@
 <h1 align="center">Hi, I'm Afonso Cordeiro</h1>
-<p align="center">Data Science and ML student, focused on reinforcement learning, computer vision, and cloud native data pipelines</p>
+<p align="center">Data Science and ML student, focused on reinforcement learning and data engineering</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AfonsoCord&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+I am currently finishing a master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 stocks. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across computer vision and tabular data. I am mostly interested in how models make decisions under uncertainty and in turning raw, messy data into something a system can actually act on.
+
 ## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,opencv" />
 </p>
 
 ## Featured Projects
 
-<p align="left">
+<table>
+<tr>
+<td width="50%">
   <a href="https://github.com/AfonsoCord/AWS-System-Design">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=AWS-System-Design&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=AWS-System-Design&theme=tokyonight" />
   </a>
+  Full stack banking loan platform with face recognition login and an automated credit decision workflow built on AWS Step Functions and Lambda.
+</td>
+<td width="50%">
   <a href="https://github.com/AfonsoCord/realtime-stock-market-pipeline">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=realtime-stock-market-pipeline&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=realtime-stock-market-pipeline&theme=tokyonight" />
   </a>
+  Streaming pipeline that ingests live stock prices through Kafka, computes technical indicators with Spark, and serves live dashboards from InfluxDB and Grafana.
+</td>
+</tr>
+<tr>
+<td width="50%">
   <a href="https://github.com/AfonsoCord/lapd-crime-dashboard">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=lapd-crime-dashboard&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=lapd-crime-dashboard&theme=tokyonight" />
   </a>
+  Interactive dashboard analyzing over 3 million LAPD crime incidents, built with GeoPandas and Plotly for spatial and temporal pattern discovery.
+</td>
+<td width="50%">
   <a href="https://github.com/AfonsoCord/job-market-data-lake-pipeline">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=job-market-data-lake-pipeline&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=job-market-data-lake-pipeline&theme=tokyonight" />
   </a>
+  End to end data lake pipeline on the global AI job market, loading a Postgres warehouse and feeding predictive models and Tableau dashboards.
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/AfonsoCord/artbench-generative-models">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=artbench-generative-models&theme=tokyonight" />
+  </a>
+  Training and comparison of a VAE, a GAN, a DDPM, and a DDPM plus VAE hybrid, all trained on the ArtBench 10 dataset of paintings.
+</td>
+<td width="50%">
   <a href="https://github.com/AfonsoCord/AWS-bedrock-anthropic-course">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=AWS-bedrock-anthropic-course&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=AWS-bedrock-anthropic-course&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AfonsoCord/kalman-filter-robot-localization">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AfonsoCord&repo=kalman-filter-robot-localization&theme=tokyonight" />
-  </a>
-</p>
-
-*Also worth a look: [`artbench-generative-models`](https://github.com/AfonsoCord/artbench-generative-models), a VAE, GAN, and DDPM comparison; [`content-based-image-retrieval`](https://github.com/AfonsoCord/content-based-image-retrieval); and [`bayesian-insurance-decision-model`](https://github.com/AfonsoCord/bayesian-insurance-decision-model).*
-
-## GitHub Stats
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AfonsoCord&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCord&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfonsoCord&theme=tokyonight&hide_border=true" />
-</p>
+  Notebooks and mini projects on the Claude API through AWS Bedrock, covering tool use, retrieval augmented generation, and an MCP server.
+</td>
+</tr>
+</table>
 
 ## Contact
 
