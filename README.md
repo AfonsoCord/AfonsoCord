@@ -8,6 +8,8 @@ My master's thesis combined a hybrid LSTM and reinforcement learning system for 
 
 ![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,supabase,mongodb,kubernetes&perline=9&theme=light)
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 ## Featured repos
 
 - [AWS-System-Design](https://github.com/AfonsoCord/AWS-System-Design): full stack banking loan platform with face recognition login and an automated credit decision workflow.
