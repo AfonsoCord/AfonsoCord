@@ -25,4 +25,4 @@ I recently completed my master's thesis on a hybrid LSTM and reinforcement learn
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/afonso-cordeiro29/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-cordeiro29/)
