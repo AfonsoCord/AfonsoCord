@@ -4,7 +4,7 @@ My master's thesis combined a hybrid LSTM and reinforcement learning system for 
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,supabase,mongodb,kubernetes,gitlab&perline=9&theme=light)
+![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,supabase,mongodb,kubernetes,gitlab,raspberrypi&perline=9&theme=light)
 
 ## Featured repos
 
