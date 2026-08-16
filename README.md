@@ -2,17 +2,11 @@
 
 Master's in Artificial Intelligence and Data Science, focused on reinforcement learning and data engineering.
 
-I recently completed my master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 data across the last 20 years. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across image and tabular data.
+My master's thesis combined a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 data across the last 20 years. Across my coursework I built an end to end data lake pipeline for TAD, ingesting the global AI job market through a Pentaho ETL into a Supabase hosted PostgreSQL warehouse and visualizing it in Tableau, and a real time streaming pipeline for IACD, processing live stock prices with Kafka and PySpark into InfluxDB and Grafana dashboards. In GENAI1 and GENAI2 I explored generative modeling, comparing a VAE, a GAN, and diffusion based models on the ArtBench-10 dataset, and inverting target images into text prompts for a latent consistency model. I also work extensively with AWS, using IAM for access control, Lambda functions, Step Functions workflows, and Bedrock for LLM based applications, applied both in the AWS-System-Design banking platform and in my AWS and Bedrock coursework.
 
 ## Languages and Tools
 
 ![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,supabase,mongodb,kubernetes&perline=9&theme=light)
-
-## What I work on
-
-- Reinforcement learning for financial markets, applied in my master's thesis.
-- Data engineering pipelines combining streaming, warehousing, and dashboards.
-- Generative modeling and classic machine learning across image and tabular data.
 
 ## Featured repos
 
