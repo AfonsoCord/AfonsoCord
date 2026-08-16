@@ -1,16 +1,16 @@
 # Afonso Cordeiro
 
-Data Science and ML student, focused on reinforcement learning and data engineering.
+Master's in Artificial Intelligence and Data Science, focused on reinforcement learning and data engineering.
 
-I am currently finishing a master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 stocks. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across image and tabular data.
+I recently completed my master's thesis on a hybrid LSTM and reinforcement learning system for statistical arbitrage pair trading, trained walk forward on S&P 500 stocks. Alongside that, I build data engineering pipelines that combine streaming, warehousing, and dashboards, and I work on classic machine learning and generative modeling projects across image and tabular data.
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,opencv&perline=9&theme=light)
+![](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,kafka,docker,aws,grafana,supabase,mongodb,kubernetes&perline=9&theme=light)
 
 ## What I work on
 
-- Reinforcement learning for financial markets, currently the core of my thesis.
+- Reinforcement learning for financial markets, applied in my master's thesis.
 - Data engineering pipelines combining streaming, warehousing, and dashboards.
 - Generative modeling and classic machine learning across image and tabular data.
 
