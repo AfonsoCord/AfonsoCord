@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Afonso Cordeiro 👋</h1>
-<p align="center">Data Science & ML student — reinforcement learning, computer vision, and cloud-native data pipelines</p>
+<h1 align="center">Hi, I'm Afonso Cordeiro</h1>
+<p align="center">Data Science and ML student, focused on reinforcement learning, computer vision, and cloud native data pipelines</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AfonsoCord&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-## 📌 Featured Projects
+## Featured Projects
 
 <p align="left">
   <a href="https://github.com/AfonsoCord/AWS-System-Design">
@@ -43,9 +43,9 @@
   </a>
 </p>
 
-*Also worth a look: [`artbench-generative-models`](https://github.com/AfonsoCord/artbench-generative-models) (VAE/GAN/DDPM comparison), [`content-based-image-retrieval`](https://github.com/AfonsoCord/content-based-image-retrieval), and [`bayesian-insurance-decision-model`](https://github.com/AfonsoCord/bayesian-insurance-decision-model).*
+*Also worth a look: [`artbench-generative-models`](https://github.com/AfonsoCord/artbench-generative-models), a VAE, GAN, and DDPM comparison; [`content-based-image-retrieval`](https://github.com/AfonsoCord/content-based-image-retrieval); and [`bayesian-insurance-decision-model`](https://github.com/AfonsoCord/bayesian-insurance-decision-model).*
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AfonsoCord&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -56,7 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfonsoCord&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Contact
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/afonso-cordeiro29/">
