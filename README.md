@@ -55,3 +55,14 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfonsoCord&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/afonso-cordeiro29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:afonsomcordnet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
